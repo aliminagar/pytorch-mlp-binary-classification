@@ -90,12 +90,14 @@ For each experiment, a confusion matrix heatmap was generated.
 Example:
 ________________________________________
 📦 Installation & Usage
-1.	Clone the Repository
-git clone https://github.com/your-username/mlp_binary_classification.git
-cd mlp_binary_classification
-2.	Install Dependencies
+1. Clone the Repository
+git clone https://github.com/aliminagar/pytorch-mlp-binary-classification.git
+cd pytorch-mlp-binary-classification
+
+2. Install Dependencies
 pip install -r requirements.txt
-3.	Run the Notebook
+
+3. Run the Notebook
 jupyter notebook mlp_binary_classification.ipynb
 ________________________________________
 📚 Learning Outcomes
